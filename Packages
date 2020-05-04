@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Shad0wexploit <xxx@xxx.xxx>
 Filename: /android.deb
 Size: 5624
-MD5sum: 7456b4f470b12e7d309f2b86f7d51bf8
-SHA1: 524511611dd917f5e402e0a5e772a9f093202877
-SHA256: 35874e48d383df8e645cf6e3b4d15fc1c65682144a0695adc4028f1e64b4c95b
+MD5sum: 1fd0f4eeacfceff7f31502b3d4b30804
+SHA1: c582d229cec676eefcd2aef6c363a1943cd33f5e
+SHA256: 0cbddddb2da4fe373f65d1861c623cae17dbc689e4dd38fcd3447cd1ac0aa58c
 Section: Tweaks
 Description: AndroidSandBox
 Author: Shad0wexploit <xxx@xxx.xxx>
