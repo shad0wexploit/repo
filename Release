@@ -1,0 +1,8 @@
+Origin: Shad0wExploit Private Repo
+Label: Shad0wExploit Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Bang me hard
